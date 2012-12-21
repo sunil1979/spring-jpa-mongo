@@ -1,0 +1,49 @@
+ Volume in drive F is data
+ Volume Serial Number is F4F9-F09C
+
+ Directory of F:\work\TE\EBUILD\code\workspace\SpringJPAMongo\WebContent\WEB-INF\lib
+
+08/04/2012  10:03 PM             4,467 aopalliance.jar
+29/05/2012  12:53 PM           414,553 c3p0-0.9.2-pre2.jar
+08/04/2012  10:04 PM           188,671 commons-beanutils-1.7.jar
+08/04/2012  10:04 PM           559,366 commons-collections-3.1.jar
+08/04/2012  10:04 PM            38,015 commons-logging.jar
+08/04/2012  10:05 PM           313,898 dom4j-1.6.1.jar
+08/04/2012  10:04 PM           100,884 hibernate-jpa-2.0-api-1.0.0.Final.jar
+08/04/2012  10:04 PM           723,975 hibernate-search-engine-4.0.0.Final.jar
+08/04/2012  10:05 PM           119,757 hibernate-search-orm-4.0.0.Final.jar
+08/04/2012  10:05 PM         3,894,821 hibernate3.jar
+08/04/2012  10:05 PM           597,476 javassist-3.9.0.GA.jar
+08/04/2012  10:04 PM            10,899 jta-1.1.jar
+08/04/2012  10:04 PM           253,160 junit-4.10.jar
+08/04/2012  10:05 PM           234,088 junit-dep-4.10.jar
+08/04/2012  10:04 PM           481,534 log4j-1.2.16.jar
+29/05/2012  12:53 PM           564,360 mchange-commons-java-0.2.1.jar
+30/11/2012  11:10 AM           398,394 mongo-2.10.0.jar
+08/04/2012  10:03 PM           767,492 mysql-connector-java-5.1.13-bin.jar
+03/12/2012  01:51 PM           331,474 org.springframework.aop-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM            53,079 org.springframework.asm-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM            50,621 org.springframework.aspects-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           589,253 org.springframework.beans-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           829,601 org.springframework.context-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           106,819 org.springframework.context.support-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           442,400 org.springframework.core-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           176,283 org.springframework.expression-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM             7,551 org.springframework.instrument-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM            11,468 org.springframework.instrument.tomcat-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           401,762 org.springframework.jdbc-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           199,060 org.springframework.jms-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           378,235 org.springframework.orm-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM            70,242 org.springframework.oxm-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           229,729 org.springframework.test-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           246,036 org.springframework.transaction-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           540,819 org.springframework.web-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           190,874 org.springframework.web.portlet-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM           572,266 org.springframework.web.servlet-3.1.0.RELEASE.jar
+03/12/2012  01:51 PM            31,408 org.springframework.web.struts-3.1.0.RELEASE.jar
+08/04/2012  10:06 PM            25,962 slf4j-api-1.6.4.jar
+05/12/2012  04:08 PM           265,010 spring-data-commons-core-1.4.0.RELEASE.jar
+05/12/2012  04:08 PM           136,859 spring-data-jpa-1.2.0.RELEASE.jar
+05/12/2012  04:12 PM           313,915 spring-data-mongodb-1.1.1.RELEASE.jar
+              42 File(s)     15,866,536 bytes
+               0 Dir(s)  51,939,532,800 bytes free
